@@ -1,12 +1,24 @@
 # print(*Hello, World!*)
 
+# import turtle
+
+# turtle.color("blue")
+
+# turtle.forward(50)
+# turtle.right(120)
+# turtle.forward(50)
+# turtle.right(120)
+# turtle.forward(50)
+# turtle.right(120)
+# print(*Hello, World!*)
+
 import turtle
 
-turtle.color("blue")
+turtle.color("red")
 
-turtle.forward(50)
+turtle.back(50)
 turtle.right(120)
-turtle.forward(50)
+turtle.back(50)
 turtle.right(120)
-turtle.forward(50)
+turtle.back(50)
 turtle.right(120)
